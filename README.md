@@ -1,2 +1,2 @@
 # Tweet-sentiment-analysis-using-scikit-learn
-Created sentiment analysis models using different approaches. Bag of words and dependency triples were effective, while the subjectivity lexicon was less so.
+Created sentiment analysis models using different approaches such as bag of words, converting tweets to positivity scores, bag of words with MPQA subjectivity lexicon, and dependency triples. Models were built using NLTK and scikit-learn libraries in Python. The effectiveness of each approach was compared with predictions using VADER and naive bayes. Bag of words and dependency triples were found to extract enough information from tweets to make more informed predictions, but the subjectivity lexicon approach was less effective.
